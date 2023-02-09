@@ -1,4 +1,4 @@
-# Yahoo 1-1 Interview Conducted by Kavitha Kamarasamy
+# 1-1 Interview Conducted by Kavitha Kamarasamy
 ### Interview Recording Link – [Click Here](https://wipro365-my.sharepoint.com/:v:/g/personal/ka20161415_wipro_com/ER0LKvpLFuNKopl440RN1D8B_E2-u_X5mrdp9U3bNtGjHQ)
 ##### Ishvinder Singh
 ##### [Ishvinder.singh2@wipro.com](mailto:ishvinder.singh2@wipro.com)
